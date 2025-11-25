@@ -13,7 +13,7 @@
   "dependencies": {
     "next": "15.0.0-rc.1",
     "next-auth": "workspace:*",
-    "react": "19.0.0-rc-4c58fce7-20240904",
+    "react": "19.2.0",
     "react-dom": "19.0.0-rc-4c58fce7-20240904"
   },
   "devDependencies": {
